@@ -1,0 +1,132 @@
+body{
+  background-image: url('https://www.figma.com/file/qaBqekLQa5IcrVAz7gG1Zb/image/d969205f95bb8835d12a15d048597018a98a63a3');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#rightmenu{
+
+position: absolute;
+width: 420px;
+height: 860px;
+left: 400px;
+color:#4D527D;
+
+}
+#leftmenu
+{
+color:#3c4064;
+
+position: absolute;
+width: 500px;
+height: 860px;
+}
+
+#Right1{
+
+line-height: 1;
+position: absolute;
+background: #ffffff;
+width: 400px;
+height: 180px;
+top: 15px;
+left: 18px;
+ border: 6px solid rgb(196, 105, 216);
+}
+
+#Right2{
+
+line-height: 1;
+position: absolute;
+background: #ffffff;
+width: 385px;
+height: 150px;
+top: 250px;
+left: 18px;
+ border: 6px solid rgb(196, 105, 216);
+}
+#Right3{
+
+line-height: 1;
+position: absolute;
+background: #ffffff;
+width: 385px;
+height: 145px;
+top: 450px;
+left: 18px;
+ border: 6px solid rgb(196, 105, 216);
+}
+#Right4{
+
+line-height: 1;
+position: absolute;
+background: #ffffff;
+width: 385px;
+height: 150px;
+top: 650px;
+left: 18px;
+ border: 6px solid rgb(196, 105, 216);
+}
+#Left1{
+position: absolute;
+background: url("https://sun9-58.userapi.com/impg/dnIXacoMLAUoAG7vYMtlZ7BVxEVy8dc7I6EKEQ/IMZ-bgkFByI.jpg?size=1280x960&quality=95&sign=7a453b8a4c6f948a1f340101970c017a&type=album");
+width: 250px;
+height: 180px;
+top: 25px;
+left: 25px;
+ border: 6px solid rgb(255, 255, 255);
+
+}
+#Left2{
+
+line-height: 1px;
+position: absolute;
+background: #ffffff;
+width: 300px;
+height: 140px;
+top: 250px;
+left: 18px;
+ border: 6px solid rgb(196, 105, 216);
+
+}
+#Left3{
+line-height: 1px;
+position: absolute;
+background: #ffffff;
+width: 300px;
+height: 100px;
+top: 430px;
+left: 18px;
+ border: 6px solid rgb(196, 105, 216);
+
+}
+#Left4{
+line-height: 1px;
+position: absolute;
+background: #ffffff;
+width: 300px;
+height: 120px;
+top: 560px;
+left: 18px;
+ border: 6px solid rgb(196, 105, 216);
+
+}
+
+#Left5{
+line-height: 1px;
+position: absolute;
+background: #ffffff;
+width: 300px;
+height: 105px;
+top: 705px;
+left: 18px;
+ border: 6px solid rgb(196, 105, 216);
+
+}
+
+body{
+
+font-family: 'Hanuman';
+font-style: normal;
+font-weight: 600;
+}
+
